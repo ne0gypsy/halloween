@@ -1,0 +1,20 @@
+{
+  "name": "halloween",
+  "version": "1.0.0",
+  "description": "A mocking utility which validates incoming requests against swagger & provides sample response generated from swagger.",
+  "author": "Abhishek Kumar",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "js-yaml": "^3.13.1",
+    "node-cache": "^5.0.0",
+    "openapi-mockk": "^0.1.0",
+    "path": "^0.12.7",
+    "swagger-client": "^3.9.6",
+    "swagger-model-validator": "^3.0.11",
+    "swagger-object-validator": "^1.2.2",
+    "swagmock": "^1.0.0",
+    "util": "^0.12.1"
+  }
+}
